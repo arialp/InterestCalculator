@@ -1,0 +1,13 @@
+# ninja log v6
+2	128	7392944948364801	CMakeFiles/InterestCalculator.dir/main.c.obj	110019efcebaea
+129	249	7392944949629478	InterestCalculator.exe	64744d0630a7ac73
+4	46	7392945046299028	CMakeFiles/InterestCalculator.dir/main.c.obj	110019efcebaea
+47	104	7392945046726893	InterestCalculator.exe	64744d0630a7ac73
+4	45	7392945218133343	CMakeFiles/InterestCalculator.dir/main.c.obj	110019efcebaea
+46	100	7392945218546698	InterestCalculator.exe	64744d0630a7ac73
+4	43	7392945440808287	CMakeFiles/InterestCalculator.dir/main.c.obj	110019efcebaea
+44	97	7392945441207548	InterestCalculator.exe	64744d0630a7ac73
+4	43	7392945856231216	CMakeFiles/InterestCalculator.dir/main.c.obj	110019efcebaea
+44	99	7392945856626618	InterestCalculator.exe	64744d0630a7ac73
+4	47	7392946307280659	CMakeFiles/InterestCalculator.dir/main.c.obj	110019efcebaea
+48	104	7392946307716734	InterestCalculator.exe	64744d0630a7ac73
